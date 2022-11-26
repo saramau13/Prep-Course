@@ -1,0 +1,9 @@
+Objetos: Es un tipo de datos , usado para guardar informacion (propiedades)en forma de coleccion, se pueden crear a traves  de un constructor. 
+
+Propiedades: Son asocioanes entre  el nombre o clave que se les de para identificarla y el valor que se les asigne. 
+
+Métodos: son funciones guardadas en un objeto.
+
+Bucle for…in: es una alternativa a del bucle for, que permite acceder a las propiedades objeto
+
+Notación de puntos vs notación de corchetes: es similiar a los arrys, se escriben la propiedad dentro de los corchetes, es mas larga. la dot notation te permite acceder colocando el nombre seguido del punto y la propiedad, mucho mas facil por lo que es mas ventajosa, pero es literal, por lo que no me permite entrar a variables que se encuentran en propiedades, cosa que si se puede hacer con la bracket notation.

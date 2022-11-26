@@ -1,0 +1,9 @@
+Variables: es una herramienta que se usa para guardar información, la cual se puede nombrar (llamar) en otro momento y nos traerá esa información.
+
+Strings: es un conjunto de texto que se definirá con comillas dobles o simples.
+
+Funciones (argumentos, return): son un conjunto de variables con la cual se realizan operaciones matemáticas, lógicas, que una vez establecidas pueden ser utilizadas dentro de otras funciones. 
+
+Declaraciones:  son instrucciones que se usan en JS y están separadas por un punto y coma (;)
+
+Valores booleanos (true, false): son datos de los lenguajes de programación que pueden arrojar dos posibles valores, true o false. 

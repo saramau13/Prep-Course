@@ -1,0 +1,3 @@
+prototype Es la forma de almacenar de forma unica un metodo y usar memoria por esa unica vez aunque el metodo se use en miles de funciones diferentes.
+
+Constructors (de Clases): es como una fabrica, en la que que crean clases de objetos, tambien podemos decir que es un metodo que se llama de la misma forma o igual que el objeto de una clase. estas funciones contructuras  metodos debe su nombre empezar por mayuscula.

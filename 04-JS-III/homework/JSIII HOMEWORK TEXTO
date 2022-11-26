@@ -1,0 +1,2 @@
+Arrays 
+Estructura de información  que nos permite almacenar una gran cantidad de datos de un mismo tipo, y que una vez establecido el tamaño no se puede modificar.  Cuando ya el array está establecido y necesita usar esa información ya sea para revisar o trabajar con ella, se puede recorrer pudiendo ser un bucle for, sabiendo que los elementos están enumerados desde el 0.
